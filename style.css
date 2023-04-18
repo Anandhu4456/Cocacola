@@ -1,0 +1,44 @@
+
+.navbar{
+    height: 90px;
+}
+.navbar img{
+    margin-left: 17%;
+}
+.nav-item{
+    margin-left: 15%;
+    font-weight: 500;
+    z-index: 10;
+}
+
+.carousel-item img{
+    border-radius: 20px;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.dropdown>.dropdown-toggle:active{
+    pointer-events: none;
+}
+.second img{
+    border-radius: 20px;
+}
+.first h2{
+    margin-top: 130px;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 20rem;
+}
+.card-body a{
+    text-decoration: none;
+    color:black;
+}
+footer{
+    background-color: black;
+}
+.li li{
+    list-style: none;
+    color: white;
+}
